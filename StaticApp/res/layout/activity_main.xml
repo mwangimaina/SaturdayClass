@@ -20,7 +20,7 @@
     <Button
         android:id="@+id/btnasian"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_alignLeft="@+id/btnartichokes"
         android:layout_below="@+id/btnartichokes"
         android:layout_marginTop="16dp"
@@ -33,7 +33,7 @@
     <Button
         android:id="@+id/btncauliflower"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_alignLeft="@+id/btnblackberries"
         android:layout_below="@+id/btnblackberries"
         android:layout_marginTop="14dp"
@@ -47,7 +47,7 @@
     <Button
         android:id="@+id/btnblackberries"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_alignLeft="@+id/btnasian"
         android:layout_below="@+id/btnasian"
         android:layout_marginTop="15dp"
@@ -60,7 +60,7 @@
     <Button
         android:id="@+id/btnartichokes"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp"
@@ -73,7 +73,7 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_below="@+id/imageView1"
         android:layout_centerHorizontal="true"
         android:text="m-Organic"

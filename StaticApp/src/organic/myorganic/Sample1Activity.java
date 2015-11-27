@@ -5,8 +5,9 @@ import java.io.IOException;
 import organic.myorganic.R;
 
 
-import android.support.v7.app.ActionBarActivity;
+
 import android.text.Html;
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -14,7 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-public class Sample1Activity extends ActionBarActivity {
+public class Sample1Activity extends Activity {
 
 	
 	

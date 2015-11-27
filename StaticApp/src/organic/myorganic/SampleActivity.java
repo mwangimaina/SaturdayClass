@@ -5,14 +5,15 @@ import java.io.IOException;
 import organic.myorganic.R;
 
 
-import android.support.v7.app.ActionBarActivity;
+
 import android.text.Html;
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class SampleActivity extends ActionBarActivity {
+public class SampleActivity extends Activity {
     
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
